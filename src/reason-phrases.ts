@@ -1,5 +1,5 @@
 // Generated file. Do not edit
-export enum ReasonPhrases {
+export const enum ReasonPhrases {
     /**
      * Official Documentation @ https://tools.ietf.org/html/rfc7231#section-6.3.3
      *
